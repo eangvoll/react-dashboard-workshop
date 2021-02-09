@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <h1 className="header">
-        Josefines dashboard
+        Espens dashboard
       </h1>
       <div className="dashboardRow">
         <Lectures />
